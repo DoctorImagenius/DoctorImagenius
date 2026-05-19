@@ -1,114 +1,79 @@
-# Hi 👋, I'm Your Name
+# Hi 👋, I'm Haroon
 
 <h3 align="center">MERN Stack Developer | Full Stack Engineer</h3>
 
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="170"/>
-
-</div>
+<p align="center">
+  Passionate about building modern full-stack web applications 🚀
+</p>
 
 ---
 
 ## 🚀 About Me
 
-```html
-<div class="intro">
+<div align="left">
 
-  <h2>👨‍💻 Developer Introduction</h2>
-
-  <p>
-    Hello! I'm <b>Your Name</b>, a passionate 
-    <b>MERN Stack Developer</b>.
-  </p>
-
-  <p>
-    I build modern full-stack web applications using
-    React.js, Node.js, Express.js, and MongoDB.
-  </p>
-
-  <p>
-    I enjoy creating scalable backend systems,
-    modern UI designs, and real-world applications.
-  </p>
+<ul>
+  <li>💻 MERN Stack Developer</li>
+  <li>⚡ Building scalable full-stack applications</li>
+  <li>🎯 Focused on React.js, Node.js & MongoDB</li>
+  <li>📚 Currently learning Next.js & TypeScript</li>
+</ul>
 
 </div>
-```
 
 ---
 
 ## 🛠 Tech Stack
 
-```html
-<div align="center">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
 
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=ts" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=express" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
+---
 
-</div>
-```
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-```html
-<div class="social-links">
-
+<p align="left">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    GitHub
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
-  <br/>
 
   <a href="https://linkedin.com/in/YOUR_LINK">
-    LinkedIn
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-</div>
-```
+</p>
 
 ---
 
-## 🎯 Current Focus
+## ⚡ Developer Info
 
-- MERN Stack Development
-- Backend Engineering
-- REST APIs
-- Full Stack Projects
-- Clean UI/UX
-
----
-
-## ⚡ Fun Fact
-
-```css
+```js
 const developer = {
   name: "Your Name",
   role: "MERN Stack Developer",
-  learning: ["Next.js", "TypeScript", "System Design"],
-  passion: "Building modern web applications"
+  technologies: [
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "TypeScript"
+  ],
+  currentFocus: "Full Stack Engineering"
 }
 ```
 
 ---
 
-<div align="center">
-
-### 🚀 Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue" />
+</p>
